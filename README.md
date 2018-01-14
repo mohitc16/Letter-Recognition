@@ -8,7 +8,9 @@ Dataset is split into Train and Test Set so as to train our Model on Train Set a
 Classification Algorithms used here:
 
 Logistic Regression
+
 SVM
+
 Random Forest
 
 Model's performance is evaluated using Classification Report
